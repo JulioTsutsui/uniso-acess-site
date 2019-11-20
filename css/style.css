@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body {height:100%;}
+footer{
+    height: 200px;
+}
+#informacao{
+    height: 600px;
+}
+.bloco{
+    height: 300px;
+}
+.caixa{
+    border: 1px solid red;
+    height: 200px;
+}
+
+.tela-cheia{
+    height: 100%;
+    width: 100%;
+}
+
+.uniso-bg{
+    background-image: url("../img/bg.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+}
